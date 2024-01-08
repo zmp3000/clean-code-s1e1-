@@ -60,6 +60,10 @@ button:hover {
   color: #3a3a3a;
 }
 /* Heading */
+.visually-hidden {
+  position: fixed;
+  visibility: hidden;
+}
 h3,
 label[for="new-task"] {
   color: #333;
